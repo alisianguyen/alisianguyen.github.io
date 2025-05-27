@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f2bde8;
+    background-color: #f6cce5;
     margin: 0;
     padding: 0;
   }
@@ -13,7 +13,7 @@ body {
   }
   
   nav a {
-    color: #f2bde8;
+    color: #ffffff;
     margin: 0 10px;
     text-decoration: none;
   }
