@@ -1,19 +1,19 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #fefefe;
+    background-color: #f2bde8;
     margin: 0;
     padding: 0;
   }
   
   header {
-    background-color: #222;
+    background-color: #84c0a3;
     color: white;
     padding: 20px;
     text-align: center;
   }
   
   nav a {
-    color: #61dafb;
+    color: #f2bde8;
     margin: 0 10px;
     text-decoration: none;
   }
@@ -27,7 +27,7 @@ body {
   }
   
   footer {
-    background-color: #222;
+    background-color: #84c0a3;
     color: white;
     text-align: center;
     padding: 10px;
